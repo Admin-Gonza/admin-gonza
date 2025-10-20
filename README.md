@@ -1,6 +1,8 @@
 <h1>Hi, I'm Simon Wachiuri! <br/><a href="https://github.com/admin-gonza">Cyber Security Analyst </a>, <a href="https://www.linkedin.com/in/simon-wachiuri/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/Wachiuri Cyber Works">YouTuber</a></h1>
-
+<img width="151" height="153" alt="PROF1" src="https://github.com/user-attachments/assets/97abcdff-17ee-48d7-bae3-36aae039f50f" />
 <h2> Home :</h2>
+
+
 
 <h3>Professional Summary</h3>
   - "CyberSecurity analyst with a sharp eye for threats and a steady hand in crisis.
@@ -42,21 +44,19 @@
 
 <h2>📺Projects</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- designed and implemented a new LAN/WAN network for a local office , configuring the switches and access points for connectivity 
 
 
 <h2>📺Lab Challenges</h2>
+- Had a lab for identifying devices in network in try hack me
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+<img width="1920" height="1080" alt="Identifying devices in the internet" src="https://github.com/user-attachments/assets/da2065cc-daf3-4bf4-a1d5-5951b1f00ba9" />
+
+- Had a lab in try hack me of using gobuste to find hidden pages
   
+<img width="1920" height="1080" alt="using gobuste to find hidden pages and faking a bank web app" src="https://github.com/user-attachments/assets/bd95b541-58b8-483b-93dd-94dcf12ddec2" />
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="wachiuricyberworks | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
