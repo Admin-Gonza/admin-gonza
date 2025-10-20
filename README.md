@@ -1,6 +1,6 @@
-<h1>Hi, I'm Simon Wachiuri! <br/><a href="https://github.com/admin-gonza">Cyber Security Analyst </a>, <a href="https://www.linkedin.com/in/simon-wachiuri/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/Wachiuri Cyber Works">YouTuber</a></h1>
+<h1>Hi, I'm Simon Wachiuri! <br/><a href="https://github.com/admin-gonza">Cyber Security Analyst </a>, <a href="https://www.linkedin.com/in/simon-wachiuri/">IT Specialist | AI Enthusiats</a>, <a href="https://www.youtube.com/c/Wachiuri Cyber Works">YouTuber</a></h1>
 <img width="151" height="153" alt="PROF1" src="https://github.com/user-attachments/assets/97abcdff-17ee-48d7-bae3-36aae039f50f" />
-<h2> Home :</h2>
+<u><h2> Home </h2></u>
 
 
 
